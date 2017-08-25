@@ -12,3 +12,9 @@ Simple data structures implementation in cpp.
        * Circular link list
        * Double link list
        
+ # Stack
+       
+       * Convertion of infix to postfix
+       * Evaulation of postfix expression
+       * Balanced Brackets in Stack.
+       
