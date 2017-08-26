@@ -11,6 +11,8 @@ Simple data structures implementation in cpp.
        * Singly link list
        * Circular link list
        * Double link list
+       * Union of two linklist
+       * Insertion of two linklist
        
  # Stack
        
