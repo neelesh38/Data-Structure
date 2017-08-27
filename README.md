@@ -14,6 +14,7 @@ Simple data structures implementation in cpp.
        * Union of two linklist
        * Insertion of two linklist
        * Swapping Nodes
+       * Deletion of even values.
        
  # Stack
        
