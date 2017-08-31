@@ -22,3 +22,7 @@ Simple data structures implementation in cpp.
        * Evaulation of postfix expression
        * Balanced Brackets in Stack.
        * Game of two stacks.
+ 
+ # Queue
+       * Singly Queue
+       * Circular Queue
