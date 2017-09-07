@@ -27,3 +27,7 @@ Simple data structures implementation in cpp.
  # Queue
        * Singly Queue
        * Circular Queue
+ 
+ # Sorting Algo
+       * Insertion Sort
+       * Selection Sort
